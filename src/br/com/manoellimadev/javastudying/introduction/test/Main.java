@@ -1,0 +1,16 @@
+package br.com.manoellimadev.javastudying.introduction.test;
+
+import br.com.manoellimadev.javastudying.introduction.domain.Student;
+
+public class Main {
+    public static void main(String[] args) {
+        String name = "Manoel", name02 = "Pedro";
+        int age = 25, age02 = 20;
+        char gender= 'M', gender02 = 'M';
+        Student student01 = new Student(name, age, gender);
+        Student student02 = new Student(name02, age02, gender02);
+
+        System.out.println("Name: "+student01.name+ " Age: "+ student01.age + " Gender: "+ student01.gender);
+        System.out.println("Name: "+student02.name+ " Age: "+ student02.age + " Gender: "+ student02.gender);
+    }
+}
