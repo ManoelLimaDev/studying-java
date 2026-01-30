@@ -52,19 +52,3 @@ This repository serves as a central hub for my development as a Software Enginee
 * **Database:** MySQL / Docker
 
 ---
-
-## 📂 How to run
-
-1.  **Clone the repository:**
-    ```bash
-    git clone [https://github.com/ManoelLimaDev/studying-java.git](https://github.com/ManoelLimaDev/studying-java.git)
-    ```
-2.  **Navigate to the module:**
-    ```bash
-    cd 04-classes-objects
-    ```
-3.  **Compile and Run:**
-    ```bash
-    javac Main.java
-    java Main
-    ```
