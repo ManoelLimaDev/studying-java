@@ -1,6 +1,6 @@
-package br.com.manoellimadev.javastudying.introduction.test;
+package br.com.manoellimadev.javastudying.oop.varargs.test;
 
-import br.com.manoellimadev.javastudying.introduction.domain.Student;
+import br.com.manoellimadev.javastudying.oop.varargs.domain.Student;
 
 public class Main {
     public static void main(String[] args) {

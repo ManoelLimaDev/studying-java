@@ -1,4 +1,4 @@
-package br.com.manoellimadev.javastudying.introduction.domain;
+package br.com.manoellimadev.javastudying.oop.varargs.domain;
 
 public class Student {
     private String name;

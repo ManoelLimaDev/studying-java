@@ -1,4 +1,4 @@
-package br.com.manoellimadev.javastudying.introduction.syntaxbasics;
+package br.com.manoellimadev.javastudying.syntaxbasics;
 
 public class loops {
     public static void main(String[] args) {

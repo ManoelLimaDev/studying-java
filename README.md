@@ -19,7 +19,7 @@ This repository serves as a central hub for my development as a Software Enginee
 *Focus: The pillar of Java development. Mastering interaction between objects.*
 - [x] **04-classes-objects**: Methods, Cohesion, Coupling.
 - [x] **05-method-overloading**: VarArgs and Overloading.
-- [ ] **06-constructors**: Initialization blocks (Static vs Instance).
+- [x] **06-constructors**: Initialization blocks (Static vs Instance).
 - [ ] **07-static-modifier**: Static methods and fields.
 - [ ] **08-inheritance**: `super`, `protected`, Initialization order.
 - [ ] **09-polymorphism**: Late binding, Casting objects.
