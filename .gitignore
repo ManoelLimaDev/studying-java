@@ -1,0 +1,9 @@
+# INTELLIJ
+.idea/
+out/
+
+# JAVA COMPILATION
+*.class
+bin/
+build/
+target/
