@@ -9,13 +9,13 @@ This repository serves as a central hub for my development as a Software Enginee
 
 ## 🚀 Roadmap & Progress
 
-### **Phase 1: Java Core & Syntax (Videos 01-38)**
+### **Phase 1: Java Core & Syntax**
 *Focus: Logic, Memory Stack vs. Heap, and Flow Control.*
 - [x] **01-syntax-basics**: Primitives, Operators, Casting.
 - [x] **02-control-flow**: Decision making (`if/else`, `switch`) and Loops.
 - [ ] **03-arrays**: Memory management with Arrays and Multidimensional Arrays.
 
-### **Phase 2: Object-Oriented Programming (Videos 39-94)**
+### **Phase 2: Object-Oriented Programming**
 *Focus: The pillar of Java development. Mastering interaction between objects.*
 - [ ] **04-classes-objects**: Methods, Cohesion, Coupling.
 - [ ] **05-method-overloading**: VarArgs and Overloading.
@@ -25,7 +25,7 @@ This repository serves as a central hub for my development as a Software Enginee
 - [ ] **09-polymorphism**: Late binding, Casting objects.
 - [ ] **10-abstract-interfaces**: Abstract classes vs Interfaces.
 
-### **Phase 3: Advanced Core & Utilities (Videos 95-172)**
+### **Phase 3: Advanced Core & Utilities**
 *Focus: Professional tools for robust applications.*
 - [ ] **11-exception-handling**: `try-catch-finally`, Custom Exceptions (Checked vs Unchecked).
 - [ ] **12-utility-classes**: Strings (Immutability), Dates (LocalDate, Duration), Wrappers.
@@ -33,7 +33,7 @@ This repository serves as a central hub for my development as a Software Enginee
 - [ ] **14-io-nio**: File manipulation (Input/Output streams).
 - [ ] **15-serialization**: Persisting objects.
 
-### **Phase 4: Collections & Modern Java (Videos 173+)**
+### **Phase 4: Collections & Modern Java**
 *Focus: Data Structures and Functional Programming.*
 - [ ] **16-collections**: `List`, `Set`, `Map`, `Queue`, Sorting (`Comparator`/`Comparable`).
 - [ ] **17-generics**: Type safety and wildcards.
