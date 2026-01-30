@@ -12,7 +12,7 @@ This repository serves as a central hub for my development as a Software Enginee
 ### **Phase 1: Java Core & Syntax (Videos 01-38)**
 *Focus: Logic, Memory Stack vs. Heap, and Flow Control.*
 - [x] **01-syntax-basics**: Primitives, Operators, Casting.
-- [ ] **02-control-flow**: Decision making (`if/else`, `switch`) and Loops.
+- [x] **02-control-flow**: Decision making (`if/else`, `switch`) and Loops.
 - [ ] **03-arrays**: Memory management with Arrays and Multidimensional Arrays.
 
 ### **Phase 2: Object-Oriented Programming (Videos 39-94)**
