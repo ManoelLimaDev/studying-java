@@ -10,7 +10,8 @@ public class Main {
         Student student01 = new Student(name, age, gender);
         Student student02 = new Student(name02, age02, gender02);
 
-        System.out.println("Name: "+student01.name+ " Age: "+ student01.age + " Gender: "+ student01.gender);
-        System.out.println("Name: "+student02.name+ " Age: "+ student02.age + " Gender: "+ student02.gender);
+//        System.out.println("Name: "+student01.name+ " Age: "+ student01.age + " Gender: "+ student01.gender);
+//        System.out.println("Name: "+student02.name+ " Age: "+ student02.age + " Gender: "+ student02.gender);
+        System.out.println("The sum is: " + student01.varArgsSum(1,2,3,4,5,6));
     }
 }
