@@ -13,7 +13,7 @@ This repository serves as a central hub for my development as a Software Enginee
 *Focus: Logic, Memory Stack vs. Heap, and Flow Control.*
 - [x] **01-syntax-basics**: Primitives, Operators, Casting.
 - [x] **02-control-flow**: Decision making (`if/else`, `switch`) and Loops.
-- [ ] **03-arrays**: Memory management with Arrays and Multidimensional Arrays.
+- [x] **03-arrays**: Memory management with Arrays and Multidimensional Arrays.
 
 ### **Phase 2: Object-Oriented Programming**
 *Focus: The pillar of Java development. Mastering interaction between objects.*
