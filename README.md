@@ -17,7 +17,7 @@ This repository serves as a central hub for my development as a Software Enginee
 
 ### **Phase 2: Object-Oriented Programming**
 *Focus: The pillar of Java development. Mastering interaction between objects.*
-- [ ] **04-classes-objects**: Methods, Cohesion, Coupling.
+- [x] **04-classes-objects**: Methods, Cohesion, Coupling.
 - [ ] **05-method-overloading**: VarArgs and Overloading.
 - [ ] **06-constructors**: Initialization blocks (Static vs Instance).
 - [ ] **07-static-modifier**: Static methods and fields.
