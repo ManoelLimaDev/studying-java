@@ -1,4 +1,4 @@
-public class controllflowswitch {
+public class controlFlowSwitch {
     public static void main(String[] args) {
         int day = 3;
         System.out.println("The day number is: " + day);
