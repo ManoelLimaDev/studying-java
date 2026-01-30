@@ -47,6 +47,13 @@ public class Account {
         this.balance+=value;
     }
 
+    public static void setTransfLimit(double transfLimit){
+        Account.transfLimit = transfLimit;
+    }
+
+    public static double getTransfLimit(){
+        return Account.transfLimit;
+    }
     public void print(){
         System.out.println("Name: "+ this.name +". Ballance: $"+this.balance);
         System.out.println("Transfer Limit: $"+ transfLimit);

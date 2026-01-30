@@ -12,7 +12,7 @@ public class Main {
         acc02.print();
         System.out.println();
 //        System.out.println("Global transfer limit: $"+Account.transfLimit);
-        Account.transfLimit = 1900.50;
+        Account.setTransfLimit(200.5);
 //        System.out.println("Global transfer limit: $"+Account.transfLimit);
 //        System.out.println();
         acc01.print();
