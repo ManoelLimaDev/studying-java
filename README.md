@@ -20,7 +20,7 @@ This repository serves as a central hub for my development as a Software Enginee
 - [x] **04-classes-objects**: Methods, Cohesion, Coupling.
 - [x] **05-method-overloading**: VarArgs and Overloading.
 - [x] **06-constructors**: Initialization blocks (Static vs Instance).
-- [ ] **07-static-modifier**: Static methods and fields.
+- [x] **07-static-modifier**: Static methods and fields.
 - [ ] **08-inheritance**: `super`, `protected`, Initialization order.
 - [ ] **09-polymorphism**: Late binding, Casting objects.
 - [ ] **10-abstract-interfaces**: Abstract classes vs Interfaces.
