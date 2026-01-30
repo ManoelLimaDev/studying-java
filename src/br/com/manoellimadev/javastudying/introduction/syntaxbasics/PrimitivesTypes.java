@@ -1,3 +1,5 @@
+package br.com.manoellimadev.javastudying.introduction.syntaxbasics;
+
 public class PrimitivesTypes {
     public static void main(String[] args) {
         int numI = 100000;

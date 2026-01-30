@@ -1,3 +1,5 @@
+package br.com.manoellimadev.javastudying.introduction.syntaxbasics;
+
 public class controlFlowSwitch {
     public static void main(String[] args) {
         int day = 3;

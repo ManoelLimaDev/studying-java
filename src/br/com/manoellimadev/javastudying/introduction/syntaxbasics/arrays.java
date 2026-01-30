@@ -1,3 +1,5 @@
+package br.com.manoellimadev.javastudying.introduction.syntaxbasics;
+
 public class arrays {
     public static void main(String[] args) {
 //      String[] cars = new String[5];

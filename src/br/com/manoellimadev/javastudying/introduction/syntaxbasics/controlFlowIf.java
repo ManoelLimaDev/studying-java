@@ -1,3 +1,5 @@
+package br.com.manoellimadev.javastudying.introduction.syntaxbasics;
+
 public class controlFlowIf {
     public static void main(String[] args) {
         int age = 10;

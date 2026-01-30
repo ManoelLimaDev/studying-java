@@ -1,3 +1,5 @@
+package br.com.manoellimadev.javastudying.introduction.syntaxbasics;
+
 public class loops {
     public static void main(String[] args) {
         int capitalA= 65;
