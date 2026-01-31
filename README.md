@@ -21,7 +21,7 @@ This repository serves as a central hub for my development as a Software Enginee
 - [x] **05-method-overloading**: VarArgs and Overloading.
 - [x] **06-constructors**: Initialization blocks (Static vs Instance).
 - [x] **07-static-modifier**: Static methods and fields.
-- [ ] **08-inheritance**: `super`, `protected`, Initialization order.
+- [x] **08-inheritance**: `super`, `protected`.
 - [ ] **09-polymorphism**: Late binding, Casting objects.
 - [ ] **10-abstract-interfaces**: Abstract classes vs Interfaces.
 
