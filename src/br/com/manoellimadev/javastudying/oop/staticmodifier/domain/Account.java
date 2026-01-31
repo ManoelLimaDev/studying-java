@@ -5,7 +5,9 @@ public class Account {
     private double balance;
     private String name;
     private String personId;
-
+//    static{
+//        System.out.println("Initializing Accounts...");
+//    }
     public Account() {
         this.balance = 0;
         this.name = "";
