@@ -4,13 +4,13 @@ public class Person {
     protected String name;
     protected String personId;
 
-    public Person(String personId, String name) {
-        this.personId = personId;
+    public Person(String name, String personId) {
         this.name = name;
+        this.personId = personId;
     }
 
     public void print(){
-        System.out.println(this.name + " " + this.personId);
+        System.out.println("Name: "+this.name + " Id:" + this.personId);
     }
 
     public String getName() {
