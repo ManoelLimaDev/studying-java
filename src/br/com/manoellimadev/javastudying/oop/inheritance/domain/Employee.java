@@ -8,9 +8,9 @@ public class Employee extends Person {
         this.salary = salary;
     }
 
-    public void print() {
-        super.print();
-        System.out.println("Salary: $" + this.salary);
+    @Override
+    public String toString() {
+        return (super.toString() + "Salary: $" + this.salary + "\n---------------------\n");
     }
 
     public double getSalary() {

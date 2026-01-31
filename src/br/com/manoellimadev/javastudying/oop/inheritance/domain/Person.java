@@ -9,8 +9,9 @@ public class Person {
         this.personId = personId;
     }
 
-    public void print(){
-        System.out.println("Name: "+this.name + " Id:" + this.personId);
+    @Override
+    public String toString() {
+        return ("Name: " + this.name + "\nId: " + this.personId + "\n");
     }
 
     public String getName() {

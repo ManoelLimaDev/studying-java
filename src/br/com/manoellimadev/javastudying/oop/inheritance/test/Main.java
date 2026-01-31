@@ -7,7 +7,7 @@ public class Main {
         Employee emp01 = new Employee("Pedro", "123456", 123.65);
         Employee emp02 = new Employee("Maria", "789ABC", 456.43);
 
-        emp01.print();
-        emp02.print();
+        System.out.println(emp01);
+        System.out.println(emp02);
     }
 }
