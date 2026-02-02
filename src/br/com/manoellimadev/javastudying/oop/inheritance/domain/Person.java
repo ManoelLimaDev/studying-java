@@ -2,7 +2,7 @@ package br.com.manoellimadev.javastudying.oop.inheritance.domain;
 
 public class Person {
     protected String name;
-    protected String personId;
+    protected final String personId;
 
     public Person(String name, String personId) {
         this.name = name;
@@ -26,7 +26,4 @@ public class Person {
         return personId;
     }
 
-    public void setPersonId(String personId) {
-        this.personId = personId;
-    }
 }
