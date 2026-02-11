@@ -22,8 +22,8 @@ This repository serves as a central hub for my development as a Software Enginee
 - [x] **06-constructors**: Initialization blocks (Static vs Instance).
 - [x] **07-static-modifier**: Static methods and fields.
 - [x] **08-inheritance**: `super`, `protected`.
-- [ ] **09-polymorphism**: Late binding, Casting objects.
-- [ ] **10-abstract-interfaces**: Abstract classes vs Interfaces.
+- [x] **09-polymorphism**: Late binding, Casting objects.
+- [x] **10-abstract-interfaces**: Abstract classes vs Interfaces.
 
 ### **Phase 3: Advanced Core & Utilities**
 *Focus: Professional tools for robust applications.*

@@ -1,4 +1,4 @@
-package br.com.manoellimadev.javastudying.oop.interfaces.main;
+package br.com.manoellimadev.javastudying.oop.interfaces.test;
 
 import br.com.manoellimadev.javastudying.oop.interfaces.domain.DBManager;
 import br.com.manoellimadev.javastudying.oop.interfaces.domain.DocManager;
