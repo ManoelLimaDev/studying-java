@@ -49,6 +49,6 @@ This repository serves as a central hub for my development as a Software Enginee
 * **IDE:** IntelliJ IDEA
 * **Version Control:** Git & GitHub
 * **Build Tool:** Maven
-* **Database:** MySQL / Docker
+* **Database:** PostgreSQL / Docker
 
 ---
