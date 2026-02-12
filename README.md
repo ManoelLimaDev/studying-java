@@ -28,7 +28,7 @@ This repository serves as a central hub for my development as a Software Enginee
 ### **Phase 3: Advanced Core & Utilities**
 *Focus: Professional tools for robust applications.*
 - [x] **11-exception-handling**: `try-catch-finally`, Custom Exceptions (Checked vs Unchecked).
-- [ ] **12-utility-classes**: Strings (Immutability), Dates (LocalDate, Duration), Wrappers.
+- [x] **12-utility-classes**: Strings (Immutability), Dates (LocalDate, Duration), Wrappers.
 - [ ] **13-regex**: Regular Expressions patterns.
 - [ ] **14-io-nio**: File manipulation (Input/Output streams).
 - [ ] **15-serialization**: Persisting objects.
