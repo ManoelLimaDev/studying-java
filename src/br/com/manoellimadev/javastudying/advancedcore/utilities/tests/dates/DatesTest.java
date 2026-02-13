@@ -1,4 +1,4 @@
-package br.com.manoellimadev.javastudying.advancedcore.utilities.tests;
+package br.com.manoellimadev.javastudying.advancedcore.utilities.tests.dates;
 
 import java.util.Date;
 //Deprecated type

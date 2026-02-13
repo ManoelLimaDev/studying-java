@@ -1,4 +1,4 @@
-package br.com.manoellimadev.javastudying.advancedcore.utilities.tests;
+package br.com.manoellimadev.javastudying.advancedcore.utilities.tests.strings;
 
 public class StringTest {
     public static void main(String[] args) {

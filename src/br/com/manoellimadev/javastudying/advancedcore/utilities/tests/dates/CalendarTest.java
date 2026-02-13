@@ -1,7 +1,6 @@
-package br.com.manoellimadev.javastudying.advancedcore.utilities.tests;
+package br.com.manoellimadev.javastudying.advancedcore.utilities.tests.dates;
 
 import java.util.Calendar;
-import java.util.GregorianCalendar;
 
 public class CalendarTest {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package br.com.manoellimadev.javastudying.advancedcore.utilities.tests;
+package br.com.manoellimadev.javastudying.advancedcore.utilities.tests.regex;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
