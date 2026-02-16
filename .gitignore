@@ -2,6 +2,9 @@
 .idea/
 out/
 
+#TEST
+test.txt
+
 # JAVA COMPILATION
 *.class
 bin/
