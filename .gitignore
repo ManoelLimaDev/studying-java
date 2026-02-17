@@ -4,7 +4,7 @@ out/
 
 #TEST
 test.txt
-
+/test
 # JAVA COMPILATION
 *.class
 bin/
