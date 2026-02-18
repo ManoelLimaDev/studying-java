@@ -10,12 +10,18 @@ public class Smartphone {
     }
 
     @Override
-    public boolean equals(Object obj){
-        if(obj == null) return false;
-        if(this == obj) return true;
-        if(this.getClass() != obj.getClass()) return false;
+    public boolean equals(Object obj) {
+        if (obj == null) return false;
+        if (this == obj) return true;
+        if (this.getClass() != obj.getClass()) return false;
         Smartphone smt = (Smartphone) obj;
-        return smt.getSerialNumber() == this.serialNumber && smt.getModel() == this.model;
+        return smt.getSerialNumber() != null && smt.getSerialNumber().equals(this.serialNumber);
+    }
+
+    @Override
+    public int hashCode() {
+
+        return this.serialNumber == null ? 0 : this.serialNumber.hashCode();
     }
 
     public String getSerialNumber() {
