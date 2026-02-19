@@ -25,13 +25,15 @@ public class SortingListsTest {
             System.out.println(m);
         }
 
-        Collections.sort(mangas, new SortById());
+//        Collections.sort(mangas, new SortById());
+        mangas.sort(new SortById());
         System.out.println("-----------------------");
         for(Manga m : mangas){
             System.out.println(m);
         }
 
-        Collections.sort(mangas, new SortByName());
+//        Collections.sort(mangas, new SortByName());
+        mangas.sort(new SortByName());
         System.out.println("-----------------------");
         for(Manga m : mangas){
             System.out.println(m);
