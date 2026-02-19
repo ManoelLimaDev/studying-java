@@ -25,6 +25,17 @@ public class SortingListsTest {
             System.out.println(m);
         }
 
+        Collections.sort(mangas, new SortById());
+        System.out.println("-----------------------");
+        for(Manga m : mangas){
+            System.out.println(m);
+        }
+
+        Collections.sort(mangas, new SortByName());
+        System.out.println("-----------------------");
+        for(Manga m : mangas){
+            System.out.println(m);
+        }
 
     }
 }
