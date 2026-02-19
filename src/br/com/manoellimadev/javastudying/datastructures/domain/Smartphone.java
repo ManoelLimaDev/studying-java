@@ -19,6 +19,11 @@ public class Smartphone {
     }
 
     @Override
+    public String toString() {
+        return "Serial Number: "+ this.serialNumber + "; Model: "+ this.model;
+    }
+
+    @Override
     public int hashCode() {
 
         return this.serialNumber == null ? 0 : this.serialNumber.hashCode();
